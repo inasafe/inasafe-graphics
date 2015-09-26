@@ -1,0 +1,8 @@
+ THE INASAFE POSTER ELEMENTS SET
+----------------------------------------------------------
+
+The files are present in 3 formats:
+
+SVG - vector element
+PNG - transparensy-supporting raster element
+EMF - vector scalable format for Windows - for embedding in the PowerPoint  and LibreOffice presentations
